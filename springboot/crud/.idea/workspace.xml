@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1517b1bc-baa4-422b-8efc-04a15f06b5da" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="crud" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1Yq7db4JyerxtjnWydtcDsoeECj" />
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="ToolWindowBuild.ShowToolbar" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/Edit As Language" value="MySQL" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../tensqusre" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.splitter.proportion" value="0.22904484" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.vector.crud.controller" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\idea\idea-workspace\crud\src\main\resources" />
+    </key>
+  </component>
+  <component name="RestServicesNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="Found 19 services " type="fcff1e1b:RestServiceStructure$RootNode" />
+        </path>
+        <path>
+          <item name="Found 19 services " type="fcff1e1b:RestServiceStructure$RootNode" />
+          <item name="crud" type="c588b436:RestServiceStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.CrudApplication">
+    <configuration name="CrudApplicationTests.add1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="crud" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.vector.crud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.vector.crud" />
+      <option name="MAIN_CLASS_NAME" value="org.vector.crud.CrudApplicationTests" />
+      <option name="METHOD_NAME" value="add1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CrudApplicationTests.count" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="crud" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.vector.crud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.vector.crud" />
+      <option name="MAIN_CLASS_NAME" value="org.vector.crud.CrudApplicationTests" />
+      <option name="METHOD_NAME" value="count" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CrudApplicationTests.findByPersonName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="crud" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.vector.crud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.vector.crud" />
+      <option name="MAIN_CLASS_NAME" value="org.vector.crud.CrudApplicationTests" />
+      <option name="METHOD_NAME" value="findByPersonName" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CrudApplicationTests.name" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="crud" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.vector.crud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.vector.crud" />
+      <option name="MAIN_CLASS_NAME" value="org.vector.crud.CrudApplicationTests" />
+      <option name="METHOD_NAME" value="name" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CrudApplicationTests.name222" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="crud" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.vector.crud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.vector.crud" />
+      <option name="MAIN_CLASS_NAME" value="org.vector.crud.CrudApplicationTests" />
+      <option name="METHOD_NAME" value="name222" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CrudApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="crud" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.vector.crud.CrudApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CrudApplicationTests.name222" />
+        <item itemvalue="JUnit.CrudApplicationTests.name" />
+        <item itemvalue="JUnit.CrudApplicationTests.count" />
+        <item itemvalue="JUnit.CrudApplicationTests.findByPersonName" />
+        <item itemvalue="JUnit.CrudApplicationTests.add1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="allServicesViewState">
+      <serviceView>
+        <option name="contentProportion" value="0.01764706" />
+        <treeState>
+          <expand>
+            <path>
+              <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@341f0ce" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+            </path>
+          </expand>
+          <select />
+        </treeState>
+      </serviceView>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1517b1bc-baa4-422b-8efc-04a15f06b5da" name="Default Changelist" comment="" />
+      <created>1583658358510</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583658358510</updated>
+      <workItem from="1583658361459" duration="20077000" />
+      <workItem from="1583715062901" duration="10219000" />
+      <workItem from="1583805579882" duration="24914000" />
+      <workItem from="1583854388767" duration="2408000" />
+      <workItem from="1583892682291" duration="21381000" />
+      <workItem from="1583971470713" duration="3790000" />
+      <workItem from="1584081607976" duration="21603000" />
+      <workItem from="1584159436829" duration="13769000" />
+      <workItem from="1584242440058" duration="14260000" />
+      <workItem from="1584280527692" duration="5155000" />
+      <workItem from="1584317723465" duration="4264000" />
+      <workItem from="1584346896216" duration="2932000" />
+      <workItem from="1584455814303" duration="3184000" />
+      <workItem from="1584577313211" duration="3921000" />
+      <workItem from="1584589073948" duration="5312000" />
+      <workItem from="1584628179014" duration="1423000" />
+      <workItem from="1584786190550" duration="9401000" />
+      <workItem from="1584802447087" duration="1123000" />
+      <workItem from="1584804676934" duration="240000" />
+      <workItem from="1584861974675" duration="594000" />
+      <workItem from="1584867712357" duration="12000" />
+      <workItem from="1584867754717" duration="1657000" />
+      <workItem from="1584955290368" duration="155000" />
+      <workItem from="1584974539616" duration="723000" />
+      <workItem from="1585015224775" duration="157000" />
+      <workItem from="1585529309220" duration="1696000" />
+      <workItem from="1585531433970" duration="133000" />
+      <workItem from="1585757674207" duration="1413000" />
+      <workItem from="1585803870390" duration="243000" />
+      <workItem from="1586785347172" duration="410000" />
+      <workItem from="1586788129255" duration="2244000" />
+      <workItem from="1587176449958" duration="941000" />
+      <workItem from="1587177437441" duration="228000" />
+      <workItem from="1587177712982" duration="142000" />
+      <workItem from="1587177881620" duration="451000" />
+      <workItem from="1587178351594" duration="144000" />
+      <workItem from="1587178513152" duration="24000" />
+      <workItem from="1587178552365" duration="939000" />
+      <workItem from="1587184750861" duration="257000" />
+      <workItem from="1587185032184" duration="2892000" />
+      <workItem from="1587187945702" duration="89000" />
+      <workItem from="1587188052396" duration="444000" />
+      <workItem from="1587188513232" duration="27000" />
+      <workItem from="1587191092308" duration="603000" />
+      <workItem from="1588417950556" duration="1005000" />
+      <workItem from="1588421797910" duration="637000" />
+      <workItem from="1588466647037" duration="3021000" />
+      <workItem from="1589188214158" duration="8055000" />
+      <workItem from="1591497669726" duration="1214000" />
+      <workItem from="1591519945560" duration="398000" />
+      <workItem from="1595856161818" duration="74000" />
+      <workItem from="1595860377110" duration="1236000" />
+      <workItem from="1595946716106" duration="70000" />
+      <workItem from="1595947427594" duration="17000" />
+      <workItem from="1596029733250" duration="40000" />
+      <workItem from="1596029864947" duration="60000" />
+      <workItem from="1596034851677" duration="60000" />
+      <workItem from="1597836452358" duration="457000" />
+      <workItem from="1598619444653" duration="497000" />
+      <workItem from="1598689811377" duration="72000" />
+      <workItem from="1598764308948" duration="41000" />
+      <workItem from="1598765430635" duration="132000" />
+      <workItem from="1599820266553" duration="386000" />
+      <workItem from="1599998033877" duration="1748000" />
+      <workItem from="1600047802376" duration="49000" />
+      <workItem from="1600079476688" duration="366000" />
+      <workItem from="1600080507923" duration="1056000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
